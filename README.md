@@ -1,13 +1,8 @@
-# 雲月閣 · Vân Nguyệt Các
+# 雲月閣 · Vân Nguyệt Các<img width="512" height="512" alt="1000267558" src="https://github.com/user-attachments/assets/d1f67001-c7d5-400a-a30c-871116babf6c" />
+
 
 Trình xem model PMX và chuyển động VMD chạy ngay trên trình duyệt (cài được như app).
 
-## Đưa lên GitHub Pages
-1. Tạo repo, tải **tất cả** file trong thư mục này lên, giữ nguyên cấu trúc thư mục:
-   `index.html`, `sw.js`, `manifest.webmanifest`, `icon-192.png`, `icon-512.png`, `icon-maskable-512.png`, `loading.webp`, và thư mục `mods/` (gồm `mod-core.js`, `mod-store.js`, `mod-ui.js`, `README-VNMOD.md`, `sample-ocean.vnmod`).
-   Thư mục `tests/` không cần để trên web, nhưng có thể giữ để kiểm thử.
-2. Settings → Pages → Deploy from a branch → `main` / `(root)` → Save.
-3. Mở `https://<tên>.github.io/<repo>/`.
 
 ## Cài như app
 - Android/Chrome: menu ⚙️ → **Cài app** (hoặc menu trình duyệt → Cài đặt ứng dụng).
